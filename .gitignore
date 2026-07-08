@@ -1,0 +1,8 @@
+__MACOSX/
+**/target/
+**/out/
+**/.idea/
+**/.vscode/
+**/.DS_Store
+*.class
+*.log
